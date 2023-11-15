@@ -1,3 +1,5 @@
 mard/
 .ipynb_checkpoints/
 !.gitignore
+*.parquet
+*.docx
